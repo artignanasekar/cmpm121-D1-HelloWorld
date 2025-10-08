@@ -1,4 +1,4 @@
 import { defineConfig } from "vite";
 export default defineConfig({
-  base: "cmpm121-D1-HelloWorld", // <-- exact repo name here
+  base: "/cmpm121-D1-HelloWorld/",
 });
